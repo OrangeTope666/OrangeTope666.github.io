@@ -8,3 +8,6 @@ MY first Blog
 不会削苹果的人
 
 未来会胖成猪的人
+
+This is a joke
+AHHHH
