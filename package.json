@@ -1,7 +1,7 @@
 {
   "name": "hexo-theme-next",
   "version": "5.1.4",
-  "description": "Elegant theme for Hexo",
+  "description": "代码如诗",
   "main": "index.js",
   "directories": {
     "test": "test"
